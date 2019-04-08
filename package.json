@@ -1,6 +1,6 @@
 {
   "name": "@therobot/vue-cli-plugin-drop-console",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "webpack config, remove all console.* call from production builds",
   "main": "index.js",
   "scripts": {
